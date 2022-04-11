@@ -5,6 +5,8 @@ Musluktan damlayan suyu düşünelim. Damlayan yere kova koyacak olursak kovadak
 
 ![(5)](https://i0.wp.com/www.matematikvegeometri.com/wp-content/uploads/2020/03/23_Tur4.gif?resize=209%2C167)
 
+[(5)](https://www.matematikvegeometri.com/turev-anlami/)
+
 # İNTEGRAL
 
 "İntegral, belli bir aralıktaki toplam değişimi, ya da biriken değişim miktarını, ifade etmek için kullanılır."[(3)](https://www.ahmetcevahircinar.com.tr/2016/03/09/turev-ve-integral-nedir/).
