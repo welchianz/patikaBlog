@@ -3,6 +3,8 @@
 Türev, bir şeyin ne kadar hızlı değiştiğiyle ilgilenir[(1)](https://www.matematiksel.org/turev-nedir-integral-nedir/). "Yani türev değişimi ölçmek için kullanılır"[(2)](https://evrimagaci.org/turev-ve-integrali-gercekten-anlamak-turev-nedir-integral-nedir-2901).
 Musluktan damlayan suyu düşünelim. Damlayan yere kova koyacak olursak kovadaki suyun zaman içindeki değişim miktarını türev ile hesaplayabiliriz[(2)](https://evrimagaci.org/turev-ve-integrali-gercekten-anlamak-turev-nedir-integral-nedir-2901).
 
+![(5)](https://i0.wp.com/www.matematikvegeometri.com/wp-content/uploads/2020/03/23_Tur4.gif?resize=209%2C167)
+
 # İNTEGRAL
 
 "İntegral, belli bir aralıktaki toplam değişimi, ya da biriken değişim miktarını, ifade etmek için kullanılır."[(3)](https://www.ahmetcevahircinar.com.tr/2016/03/09/turev-ve-integral-nedir/).
@@ -11,7 +13,7 @@ eğrinin içinde sonsuz adet diktörtgen olduğunu ve her bir dikdörtgenin alan
 
 ![(4)](https://img.bilgeyik.com//2020/mart/7/fast/674_riemann.gif)
 
-             [(4)](https://www.bilgeyik.com/integral-nedir-ne-ise-yarar-639)
+[(4)](https://www.bilgeyik.com/integral-nedir-ne-ise-yarar-639)
 
 # KAYNAKÇA
 
@@ -22,3 +24,5 @@ eğrinin içinde sonsuz adet diktörtgen olduğunu ve her bir dikdörtgenin alan
 (3)https://www.ahmetcevahircinar.com.tr/2016/03/09/turev-ve-integral-nedir/
 
 (4)https://www.bilgeyik.com/integral-nedir-ne-ise-yarar-639
+
+(5)https://www.matematikvegeometri.com/turev-anlami/
