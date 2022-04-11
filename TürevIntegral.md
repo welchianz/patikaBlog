@@ -1,6 +1,6 @@
 # TÜREV
 
-Türev, bir şeyin ne kadar hızlı değiştiğiyle ilgilenir[1](https://www.matematiksel.org/turev-nedir-integral-nedir/). "Yani türev değişimi ölçmek için kullanılır"(2)[https://evrimagaci.org/turev-ve-integrali-gercekten-anlamak-turev-nedir-integral-nedir-2901].
+Türev, bir şeyin ne kadar hızlı değiştiğiyle ilgilenir[(1)](https://www.matematiksel.org/turev-nedir-integral-nedir/). "Yani türev değişimi ölçmek için kullanılır"(2)[https://evrimagaci.org/turev-ve-integrali-gercekten-anlamak-turev-nedir-integral-nedir-2901].
 Musluktan damlayan suyu düşünelim. Damlayan yere kova koyacak olursak kovadaki suyun zaman içindeki değişim miktarını türev ile hesaplayabiliriz(2)[https://evrimagaci.org/turev-ve-integrali-gercekten-anlamak-turev-nedir-integral-nedir-2901].
 
 #İNTEGRAL
