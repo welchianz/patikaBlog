@@ -10,7 +10,8 @@ Dikdörtgenin alanını hesaplamak istediğimizde dikdörtgenin enini ve boyunu 
 eğrinin içinde sonsuz adet diktörtgen olduğunu ve her bir dikdörtgenin alanını hesapladığımızı varsayalım. Bingo! Tüm bu alanları hesapladığımızda eğrinin altında kalan alanı da hesaplamış oluruz[(4)](https://www.bilgeyik.com/integral-nedir-ne-ise-yarar-639).
 
 ![(4)](https://img.bilgeyik.com//2020/mart/7/fast/674_riemann.gif)
-                            [(4)](https://www.bilgeyik.com/integral-nedir-ne-ise-yarar-639)
+
+                   [(4)](https://www.bilgeyik.com/integral-nedir-ne-ise-yarar-639)
 
 # KAYNAKÇA
 
